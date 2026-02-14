@@ -11,8 +11,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Background: The aim of the case study is to identify applicants who are likely to default using EDA(Exploratory Data Analysis).
-- Business Problem: A large online loan marketplace, facilitating personal loans, business loans,  wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
+- Objective: Developed a predictive model to identify high-risk loan applicants for a large online marketplace, aiming to minimize financial loss from defaults while maximizing credit availability.
+- The Business Problem: Loan providers face a "cost of misclassification." Denying a "good" applicant results in lost interest revenue, while approving a "bad" applicant results in a total loss of principal. This project uses Exploratory Data Analysis (EDA) to pinpoint the strongest drivers of default.
 - Dataset: The data contains records of loans issued, including fields such as issue month and loan amounts. The primary analysis revolves around the total number of loans issued per month.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
