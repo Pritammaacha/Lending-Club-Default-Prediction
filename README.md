@@ -1,4 +1,4 @@
-# Loan Data Analysis Project
+# Predictive Modeling for Lending Club Loan Defaults
 > A large online loan marketplace, facilitating personal loans, business loans,  wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
 
 
