@@ -17,10 +17,11 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- In this analysis of Lending Club loan data, we aimed to identify the key factors influencing loan defaults through a comprehensive Exploratory Data Analysis (EDA). 
-- The univariate and segmented univariate analyses revealed that factors such as loan amount, interest rate, employment length, and DTI are critical indicators of loan defaults. 
-- Combining these insights in the bivariate analysis further strengthened the findings, confirming that higher-risk borrowers typically took larger, higher-interest loans and had shorter employment histories or higher financial burdens.
+## Key Insights & Conclusions
+- Credit Grading: Analysis confirms that internal "Grades" and "Sub-grades" remain the most reliable indicators of risk, though high-interest rates often correlate with higher default rates regardless of grade.
+- Debt-to-Income (DTI): Applicants with a DTI ratio above a specific threshold (e.g., 20%+) showed a statistically significant increase in "Charged Off" status.
+- Employment Length: Interestingly, borrowers with 10+ years of employment history did not always show lower default rates compared to mid-career borrowers, suggesting income stability is more complex than mere tenure.
+- Annual Income: Low-income brackets combined with high loan amounts (high loan-to-income ratio) are the primary drivers of loan default.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
